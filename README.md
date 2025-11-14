@@ -9,9 +9,9 @@ Click the Code button, then click on "Download ZIP"
 
 OR
 
-Click the salary_increase.py file, then click on the Download Raw File button
+Click the salary_increase.py file, then click on the Download Raw File button.
 
-# Usage
+# How to Use
 1. Enter the salary. It must be a positive number, either integer or decimal. Then, press Enter.
 2. The new salary and the increase percentage will be displayed on screen.
 3. Finally, press Enter to exit the program.
